@@ -1,4 +1,16 @@
-### Hi there 👋
+### 👋 Hi! Sou Vanessa Cabelli... 🌺
+##
+
+💖 Sou uma pessoa apaixonada pela tecnologia, hoje me dedicando a profissionalizar na área de programação <br />
+Cursando o 2º período de Sistema para Internet 📖<br />
+🏫 PUC Minas EAD
+
+
+##
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VanessaCabelli&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VanessaCabelli&show_icons=true&theme=radical)](https://github.com/VanessaCabelli/github-readme-stats)
+
 
 <!--
 **VanessaCabelli/VanessaCabelli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
